@@ -149,8 +149,9 @@ rcontact delete --id 1
 
 ## Author
 
-**Koshi**\n
-**Contact Book CLI v1.0**\n
+**Koshi**  
+**Contact Book CLI v1.0**  
 A simple Rust CLI project for managing contacts efficiently.
+
 
 
